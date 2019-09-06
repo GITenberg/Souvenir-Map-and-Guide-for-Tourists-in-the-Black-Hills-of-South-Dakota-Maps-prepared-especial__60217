@@ -1,0 +1,26 @@
+_repo: Souvenir-Map-and-Guide-for-Tourists-in-the-Black-Hills-of-South-Dakota-Maps-prepared-especial__60217
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dakota Engineering Company, Mitchell, S.D.
+    gutenberg_agent_id: '50856'
+    url: http://www.gutenberg.org/2009/agents/50856
+description: ''
+gutenberg_issued: '2019-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60217'
+  lccn: '13007512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Automobile travel -- Guidebooks'
+- !lcsh 'Black Hills (S.D. and Wyo.) -- Guidebooks'
+- !lcc 'F590.3'
+- GITenberg
+title: 'Souvenir Map and Guide for Tourists in the Black Hills of South Dakota
+
+  Maps prepared especially for the use of Automobile Tourists'
+url: http://www.gutenberg.org/ebooks/60217
